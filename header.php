@@ -9,7 +9,7 @@
     <!-- /.navbar-header -->
     <nav class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-            <li ><a href="index.php" >Home <span class="caret"></span></a>
+            <li><a href="index.php">Home </a></li>
             </li>
             <li ><a href="about2.php" >About Us</a>
             </li>
