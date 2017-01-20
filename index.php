@@ -31,16 +31,16 @@
     <div class="tp-fullscreen">
       <ul>
         <li data-transition="fade"> <img src="style/images/fivehealthitbanner.jpg"  alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
-          <h1 class="tp-caption large sfr" data-x="30" data-y="263" data-speed="900" data-start="800" data-easing="Sine.easeOut">Who We Are</h1>
-          <div class="tp-caption large sfr" data-x="30" data-y="348" data-speed="900" data-start="1500" data-easing="Sine.easeOut">AHSL is an IT solutions company specializing</br> in the development and deployment </br>of healthcare info. systems</div>
+<!--          <h1 class="tp-caption large sfr" data-x="30" data-y="263" data-speed="900" data-start="800" data-easing="Sine.easeOut">Who We Are</h1>-->
+          <div class="tp-caption large sfr" data-x="30" data-y="348" data-speed="900" data-start="1500" data-easing="Sine.easeOut"><center>AHSL is a health informatics company specializing </br> in the development and deployment </br>of informatics technology solutions in healthcare</center></div>
         </li>
         <li data-transition="fade"> <img src="style/images/5.jpg"  alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
           <h1 class="tp-caption large text-center sfl" data-x="center" data-y="283" data-speed="900" data-start="800" data-easing="Sine.easeOut">Why Choose Us?</h1>
-          <div class="tp-caption large text-center sfr" data-x="center" data-y="363" data-speed="900" data-start="1500" data-easing="Sine.easeOut">Skilled + Experienced, Committed & Trusted</div>
+          <div class="tp-caption large text-center sfr" data-x="center" data-y="363" data-speed="900" data-start="1500" data-easing="Sine.easeOut">Skilled, Experienced, Committed & Trusted</div>
         </li>
         <li data-transition="fade"> <img src="style/images/6.jpg"  alt="" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" />
           <h1 class="tp-caption large text-center sfb" data-x="center" data-y="293" data-speed="900" data-start="800" data-easing="Sine.easeOut">What Are Our Values?</h1>
-          <div class="tp-caption large text-center sfr" data-x="center" data-y="387" data-speed="900" data-start="1500" data-easing="Sine.easeOut">Quality, Efficiency, Teamwork,Creative,Innovative</div>
+          <div class="tp-caption large text-center sfr" data-x="center" data-y="387" data-speed="900" data-start="1500" data-easing="Sine.easeOut">Quality, Efficiency, Teamwork,Creativity & Innovation</div>
         </li>
 <!--        <li data-transition="fade"> <img src="style/video/nyc.jpg" alt="" data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat" />-->
 <!--          <div class="tp-caption large text-center sfb" data-x="center" data-y="293" data-speed="900" data-start="800" data-endspeed="100" data-easing="Sine.easeOut" style="z-index: 2;">html5 self hosted video support</div>-->
@@ -78,7 +78,6 @@
     <div class="container inner">
       <div class="thin">
         <h3 class="section-title text-center">Welcome To AHSL</h3>
-        <p class="text-center">We are glad to have you today!</p>
       </div>
       <!-- /.thin -->
 
@@ -101,10 +100,6 @@
           <!--/column -->
           <div class="col-sm-7">
             <h3 class="section-title">Who We Are</h3>
-            <p>AHSL is an information technology solutions company specializing in the development and deployment of
-              healthcare information systems. AHSL’s vision is a healthcare industry with a robust, open and integrated
-              technology platform in which all components work together to serve users in making informed decisions
-              while at the same time contributing to quality of care and services. </p>
             <div class="small-quote">
               <blockquote>
                 <p> AHSL is comprised of highly experienced software development and public health experts. Combined, we
@@ -115,11 +110,6 @@
                   the others. This synergy allows the group to truly be greater than the sum of its parts</p>
               </blockquote>
             </div>
-            <p>Our Mission is to contribute to the improvement of the quality of health services by capacity building
-              health systems through leveraging on information technology to support health managers, clinicians and
-              even patients to digest and understand the complex clinical processes, outputs and outcomes arising out
-              of engagement with the healthcare system.</p>
-          </div>
           <!--/column -->
         </div>
         <!--/.row --> 

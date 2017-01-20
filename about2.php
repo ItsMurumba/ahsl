@@ -30,7 +30,7 @@
   <div class="post-parallax parallax inverse-wrapper parallax1" style="background-image: url(style/images/art/parallax1.jpg);">
     <div class="container inner text-center">
       <div class="headline text-center">
-        <h2>hello! we are Advance Healthcare Solutions Limited (AHSL)</h2>
+        <h2>hello! we are Advanced Healthcare Solutions Limited (AHSL)</h2>
         <p class="lead">an information technology solutions company specializing in the development and deployment of healthcare information systems</p>
       </div>
       <!-- /.headline --> 
@@ -165,7 +165,7 @@
                 <h4 class="panel-title"> <a data-toggle="collapse" class="panel-toggle active" data-parent="#accordion" href="#collapseOne"> Skills + Experience </a> </h4>
               </div>
               <div id="collapseOne" class="panel-collapse collapse in">
-                <div class="panel-body">First, a depth of experience and combined skill set which enables us to approach an incredible range of roles and projects. We have customized IQcare, adding within it a new module for the management and monitoring of People who Inject Drugs (PWID). We can customize EMR systems for HIV Care, TB care; PMTCT and EID follow up and integrate with the laboratory and Pharmacy.  We have implemented EMR systems in large-scale HIV treatment programs as well as digitizing paper based clinic records. We can as well provide electronic health records solutions for the whole hospital.</div>
+                <div class="panel-body">First, a depth of experience and combined skill set which enables us to approach an incredible range of roles and projects. Using technology, clinical guidelines, information systems and data management practises, we optimize the collection, storage and use of information in healthcare</div>
               </div>
             </div>
             <div class="panel panel-default">
@@ -219,20 +219,20 @@
   
   <div class="dark-wrapper">
     <div class="container inner">
-      <h3 class="section-title text-center">customer <strong>testimonials</strong></h3>
+      <h3 class="section-title text-center">Customer <strong>Testimonials</strong></h3>
       <div class="divide10"></div>
       <div class="testimonials2 small-quote">
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <div class="quote">
-              <div class="icon text-center"> <img src="style/images/art/t2-1.jpg" alt="" />
+              <div class="icon text-center">
                 <div class="author">
-                  <h4 class="post-title">Connor Gibson</h4>
-                  <span class="meta">MOH</span> </div>
+                  <h4 class="post-title">Clinic Manager</h4>
+                  <span class="meta">Mathare Methadone</span> </div>
               </div>
               <div class="box">
                 <blockquote>
-                  <p>Working with AHSL team was a great opportunity. We did learn alot and they delivered the needed services in time. </p>
+                  <p>Outstanding Solution. It works the way it is supposed to work! </p>
                 </blockquote>
               </div>
             </div>
@@ -241,10 +241,10 @@
           <!--/column -->
           <div class="col-sm-12 col-md-6">
             <div class="quote right">
-              <div class="icon text-center"> <img src="style/images/art/t2-2.jpg" alt="" />
+              <div class="icon text-center">
                 <div class="author">
-                  <h4 class="post-title">Coriss Ambady</h4>
-                  <span class="meta">Health Officer</span> </div>
+                  <h4 class="post-title"> Lab Logistics Ltd</h4>
+                   </div>
                 <!--/.author --> 
               </div>
               <!--/.icon -->
@@ -260,42 +260,61 @@
         </div>
         <!--/.row -->
         <div class="row">
-<!--          <div class="col-sm-12 col-md-6">-->
-<!--            <div class="quote">-->
-<!--              <div class="icon text-center"> <img src="style/images/art/t2-3.jpg" alt="" />-->
-<!--                <div class="author">-->
-<!--                  <h4 class="post-title">Nikola Brooten</h4>-->
-<!--                  <span class="meta">Sales Manager</span> </div>-->
-<!--                <!--/.author -->
-<!--              </div>-->
-<!--              <!--/.icon -->
-<!--              <div class="box">-->
-<!--                <blockquote>-->
-<!--                  <p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula.</p>-->
-<!--                </blockquote>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--            <!--/.quote -->
-<!--          </div>-->
-          <!--/column -->
-<!--          <div class="col-sm-12 col-md-6">-->
-<!--            <div class="quote right">-->
-<!--              <div class="icon text-center"> <img src="style/images/art/t2-4.jpg" alt="" />-->
-<!--                <div class="author">-->
-<!--                  <h4 class="post-title">Barclay Widerski</h4>-->
-<!--                  <span class="meta">Marketing Specialist</span> </div>-->
-<!--                <!--/.author -->
-<!--              </div>-->
-<!--              <!--/.icon -->
-<!--              <div class="box">-->
-<!--                <blockquote>-->
-<!--                  <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis.</p>-->
-<!--                </blockquote>-->
-<!--              </div>-->
-<!--            </div>-->
-<!--            <!--/.quote -->
-<!--          </div>-->
-          <!--/column --> 
+          <div class="col-sm-12 col-md-6">
+            <div class="quote">
+              <div class="icon text-center"> <img src="style/images/art/t2-3.jpg" alt="" />
+                <div class="author">
+                  <h4 class="post-title">Prodigy H. Ltd</h4>
+                </div>
+              </div>
+<!--              /.icon -->
+              <div class="box">
+                <blockquote>
+                  <p>Great Customer service. Fast response and fast solution.</p>
+                </blockquote>
+              </div>
+            </div>
+<!--            /.quote -->
+          </div>
+<!--          /column -->
+          <div class="col-sm-12 col-md-6">
+            <div class="quote right">
+              <div class="icon text-center"> <img src="style/images/art/t2-4.jpg" alt="" />
+                <div class="author">
+                  <h4 class="post-title">Soft Choice Africa</h4>
+                   </div>
+<!--                /.author -->
+              </div>
+<!--              /.icon -->
+              <div class="box">
+                <blockquote>
+                  <p>Great support! Very fast and helpful. Looking forward to another project being implemented by the team from AHSL.</p>
+                </blockquote>
+              </div>
+            </div>
+<!--            /.quote -->
+          </div>
+<!--          /column --> -->
+        </div>
+        <!--/.row -->
+        <!--/.row -->
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <div class="quote">
+              <div class="icon text-center"> <img src="style/images/art/t2-3.jpg" alt="" />
+                <div class="author">
+                  <h4 class="post-title">Healthcare I. Intve</h4>
+                </div>
+              </div>
+              <!--              /.icon -->
+              <div class="box">
+                <blockquote>
+                  <p>Established a long lasting partnership with ASHL. A great team with skills and valuable experience. They never disappoint.</p>
+                </blockquote>
+              </div>
+            </div>
+            <!--            /.quote -->
+          </div>
         </div>
         <!--/.row -->
       </div>
