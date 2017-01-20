@@ -29,45 +29,8 @@
   
   <div class="offset"></div>
   <div id="map"></div>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1xdEVYy8IZdBKJGQp_QpDWaNQT7ZHGhY&amp;sensor=false&amp;extension=.js"></script> 
-  <script> google.maps.event.addDomListener(window, 'load', init);
-	var map;
-	function init() {
-	    var mapOptions = {
-	        center: new google.maps.LatLng(-1.3094895,36.8598172),
-	        zoom: 17,
-	        zoomControl: true,
-	        zoomControlOptions: {
-	            style: google.maps.ZoomControlStyle.DEFAULT,
-	        },
-	        disableDoubleClickZoom: false,
-	        mapTypeControl: true,
-	        mapTypeControlOptions: {
-	            style: google.maps.MapTypeControlStyle.DROPDOWN_MENU,
-	        },
-	        scaleControl: true,
-	        scrollwheel: false,
-	        streetViewControl: true,
-	        draggable : true,
-	        overviewMapControl: false,
-	        mapTypeId: google.maps.MapTypeId.ROADMAP,
-			styles: [{stylers:[{saturation:-100},{gamma:1}]},{elementType:"labels.text.stroke",stylers:[{visibility:"off"}]},{featureType:"poi.business",elementType:"labels.text",stylers:[{visibility:"off"}]},{featureType:"poi.business",elementType:"labels.icon",stylers:[{visibility:"off"}]},{featureType:"poi.place_of_worship",elementType:"labels.text",stylers:[{visibility:"off"}]},{featureType:"poi.place_of_worship",elementType:"labels.icon",stylers:[{visibility:"off"}]},{featureType:"road",elementType:"geometry",stylers:[{visibility:"simplified"}]},{featureType:"water",stylers:[{visibility:"on"},{saturation:50},{gamma:0},{hue:"#50a5d1"}]},{featureType:"administrative.neighborhood",elementType:"labels.text.fill",stylers:[{color:"#333333"}]},{featureType:"road.local",elementType:"labels.text",stylers:[{weight:0.5},{color:"#333333"}]},{featureType:"transit.station",elementType:"labels.icon",stylers:[{gamma:1},{saturation:50}]}]
-			}
-	
-	    var mapElement = document.getElementById('map');
-	    var map = new google.maps.Map(mapElement, mapOptions);
-	    var locations = [
-	        ['AHSL Limited' , -1.3094895,36.8598172]
-	    ];
-	    for (i = 0; i < locations.length; i++) {
-	        marker = new google.maps.Marker({
-	            icon: 'style/images/map-pin.png',
-	            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
-	            map: map
-	        });
-	    }
-	}
-  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1xdEVYy8IZdBKJGQp_QpDWaNQT7ZHGhY&amp;sensor=false&amp;extension=.js"></script>
+    <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyA1xdEVYy8IZdBKJGQp_QpDWaNQT7ZHGhY'></script><div style='overflow:hidden;height:464px;width:1690px;'><div id='gmap_canvas' style='height:464px;width:1690px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div>  <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=17c609c4f27a2a76cefbb1c6422ad35be7a474a1'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:15,center:new google.maps.LatLng(-1.3067472,36.86823730000003),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-1.3067472,36.86823730000003)});infowindow = new google.maps.InfoWindow({content:'<strong>Advanced Healthcare Solutions Limited</strong><br>Pate Road<br> Nairobi<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
   <div class="light-wrapper">
     <div class="container inner">
       <div class="row">
@@ -76,7 +39,11 @@
           <p>We would love to get your feedback about our services or even just say hi by dropping a message!</p>
           <div class="divide10"></div>
           <div class="form-container">
-            <form action="contact/vanilla-form.php" method="post" class="vanilla vanilla-form" novalidate="novalidate">
+              <form action="sendmessage.php" method="post">
+                <input type="hidden" value="info@ahsl.co.ke" name="send_to" />
+                <input type="hidden" value="no-reply@ahsl.co.ke" name="send_from" />
+                <input type="hidden" value="contact.php" name="redirect" />
+                <input type="hidden" value="Contact Form Submission" name="subject" />
               <div class="row">
                 <div class="col-sm-6">
                   <div class="form-field">
@@ -159,10 +126,10 @@
             </address>
             <address>
             <strong>Ngong Road Office</strong><br>
-              Mucai Drive, Off Ngong Road <br>
+              Muchai Drive, Off Ngong Road <br>
               P.O. Box 52999 - 00200, Nairobi<br>
             <abbr title="Phone">P:</abbr> +254 722 908 874 <br>
-            <abbr title="Email">E:</abbr> <a href="mailto:#">nfo@ashl.co.ke</a>
+            <abbr title="Email">E:</abbr> <a href="mailto:#">info@ashl.co.ke</a>
             </address>
           </div>
           <!-- /.widget --> 
