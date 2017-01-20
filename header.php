@@ -1,7 +1,7 @@
 <div class="navbar">
     <div class="navbar-header">
         <div class="basic-wrapper">
-            <div class="navbar-brand"> <a href="index.php"><img src="#" srcset="style/images/logo.png 1x, style/images/logo@2x.png 2x" class="logo-light" alt="" /><img src="#" srcset="style/images/logo-dark.png 1x, style/images/logo-dark@2x.png 2x" class="logo-dark" alt="" /></a> </div>
+            <div class="navbar-brand"> <a href="index"><img src="#" srcset="style/images/logo.png 1x, style/images/logo@2x.png 2x" class="logo-light" alt="" /><img src="#" srcset="style/images/logo-dark.png 1x, style/images/logo-dark@2x.png 2x" class="logo-dark" alt="" /></a> </div>
             <a class="btn responsive-menu" data-toggle="collapse" data-target=".navbar-collapse"><i></i></a>
         </div>
         <!-- /.basic-wrapper -->
@@ -9,7 +9,7 @@
     <!-- /.navbar-header -->
     <nav class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-            <li><a href="index.php">Home </a></li>
+            <li><a href="index">Home </a></li>
             </li>
             <li ><a href="about2.php" >About Us</a>
             </li>

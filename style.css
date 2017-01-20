@@ -677,7 +677,7 @@ footer ul.circled li:before {
     left: 0;
     margin: 0;
     height: 90px;
-    background: transparent;  
+    background:#000;
     transition: all 0.3s;
     font-family: 'Montserrat', sans-serif;
 }
