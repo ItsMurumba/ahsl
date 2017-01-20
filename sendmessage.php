@@ -13,7 +13,7 @@
       // Set up message
       $cname = $_POST['name'];
       $cemail = $_POST['email'];
-      $cphone = $_POST['phone'];
+      $cphone = $_POST['tel'];
       $send_to = $_POST['send_to'];
       $send_from = $_POST['send_from'];
       $subject  = $_POST['subject'];

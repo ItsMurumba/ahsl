@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5314a074-7a7c-4d10-8849-65c49978374f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sendmessage.php" afterPath="$PROJECT_DIR$/sendmessage.php" />
     </list>
     <ignored path="ahsl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,14 +35,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+            <state relative-caret-position="394">
+              <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
               <folding>
-                <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,18 +54,18 @@
             <state relative-caret-position="243">
               <caret line="129" column="55" selection-start-line="129" selection-start-column="55" selection-end-line="129" selection-end-column="55" />
               <folding>
-                <marker date="1484906003077" expanded="true" signature="1327:1337" ph="..." />
-                <marker date="1484906003077" expanded="true" signature="1370:1380" ph="..." />
+                <marker date="1484906727165" expanded="true" signature="1327:1337" ph="..." />
+                <marker date="1484906727165" expanded="true" signature="1370:1380" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sendmessage.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sendmessage.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sendmessage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="36" column="70" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
+            <state relative-caret-position="90">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -257,12 +257,12 @@
       <workItem from="1477472971907" duration="156000" />
       <workItem from="1477639693963" duration="24000" />
       <workItem from="1484459196557" duration="4646000" />
-      <workItem from="1484900425199" duration="5786000" />
+      <workItem from="1484900425199" duration="7015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32834000" />
+    <option name="totallyTimeSpent" value="34063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1356" height="744" extended-state="4" />
@@ -316,8 +316,8 @@
         <state relative-caret-position="1215">
           <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -515,33 +515,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sendmessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="36" column="70" selection-start-line="36" selection-start-column="70" selection-end-line="36" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="129" column="55" selection-start-line="129" selection-start-column="55" selection-end-line="129" selection-end-column="55" />
           <folding>
-            <marker date="1484906003077" expanded="true" signature="1327:1337" ph="..." />
-            <marker date="1484906003077" expanded="true" signature="1370:1380" ph="..." />
+            <marker date="1484906727165" expanded="true" signature="1327:1337" ph="..." />
+            <marker date="1484906727165" expanded="true" signature="1370:1380" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+        <state relative-caret-position="394">
+          <caret line="91" column="33" selection-start-line="91" selection-start-column="33" selection-end-line="91" selection-end-column="33" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sendmessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

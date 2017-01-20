@@ -28,7 +28,7 @@
   <?php include ("header.php")?>
   
   <div class="offset"></div>
-  <div id="map"></div>
+<!--  <div id="map"></div>-->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1xdEVYy8IZdBKJGQp_QpDWaNQT7ZHGhY&amp;sensor=false&amp;extension=.js"></script>
     <script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyA1xdEVYy8IZdBKJGQp_QpDWaNQT7ZHGhY'></script><div style='overflow:hidden;height:464px;width:1690px;'><div id='gmap_canvas' style='height:464px;width:1690px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div>  <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=17c609c4f27a2a76cefbb1c6422ad35be7a474a1'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:15,center:new google.maps.LatLng(-1.3067472,36.86823730000003),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(-1.3067472,36.86823730000003)});infowindow = new google.maps.InfoWindow({content:'<strong>Advanced Healthcare Solutions Limited</strong><br>Pate Road<br> Nairobi<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
   <div class="light-wrapper">
@@ -89,7 +89,7 @@
                 <!--/column --> 
               </div>
               <!--/.row -->
-              <textarea name="message" placeholder="Type your message here..." required="required"></textarea>
+              <textarea name="msg" placeholder="Type your message here..." required="required"></textarea>
               <div class="radio-set">
                 <label>Subject:</label>
                 <label>
